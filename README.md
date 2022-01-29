@@ -34,7 +34,7 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 **Original School Summary**
 ![](Resources/school_summary_original_2.png)
 **Updated School Summary 1 (Replacing THS ninth graders' scores with Nans)**
-![](Resources/school_summary_Before_2.png)
+![](Resources/school_summary_Before_1.png)
 
 **Updated School Summary 2 (Excluding THS ninth graders)**
 ![](Resources/school_summary_after.png)
