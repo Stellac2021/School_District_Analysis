@@ -10,22 +10,25 @@ The purpose of this project is to:
 
 
 ## Results
-How is the district summary affected?
+**Effect on District Summary After Changes**
+
 As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- have slightly fallen by roughly 0.1%
 
 **Before**
 ![](Resources/district_summary_before.png)
 
 **After**
+![](Resources/district_summary_after.png)
 
-
-How is the school summary affected?
+**Effect on School Summary After Changes**
 When replacing ninth grader's math and reading scores with Nans, Thomas high school is no longer in Top 5 and passing rates have significantly fallen by more than 30%
 However, if we exclude ninth graders and their scores, Thomas High School is remain at Top 2 and the passing rates only slightly fallen
+
 **Replacing ninth graders' math and reading scores with Nans**
+![](Resources/school_summary_before.png)
 
 **Excluding ninth graders**
-
+![](Resources/school_summary_after.png)
 
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
