@@ -26,7 +26,7 @@ When replacing ninth grader's math and reading scores with Nans, Thomas high sch
 However, if we exclude ninth graders and their scores, Thomas High School is remain at Top 2 and the passing rates only slightly fallen
 
 **Replacing ninth graders' math and reading scores with Nans**
-![](Resources/school_summary_before.png)
+![](Resources/school_summary_Before_2.png)
 
 **Excluding ninth graders**
 ![](Resources/school_summary_after.png)
