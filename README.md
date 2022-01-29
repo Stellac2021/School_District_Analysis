@@ -6,11 +6,16 @@ The school board would like to verify the validity of reading and math grades fo
 ### Purpose
 The purpose of this project is to:
   1. replace the math and reading scores for ninth graders in Thomas High School with NaNs while keeping the rest of the data intact.
-  2. analyze the math and reading scores for all school districs
+  2. analyze the math and reading scores for all school districts
 
+### Resources
+  - Data Sources : schools_complete.csv & students_complete.csv
+  - Library : Pandas & Numpy
+  - Language : Python
+  - Application : Jupyter Notebook
 
 ## Results
-### Affects on District Summary After Changes
+### Change Effect on District Summary 
 
 As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- for District Summary have slightly fallen by roughly 0.1% after replacing the original scores with NaNs for Thomas High School (THS)
 
@@ -21,15 +26,17 @@ As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing
 **District Summary Replacing THS Ninth graders' scores to Nans**
 ![](Resources/district_summary_after.png)
 
-### Affects on School Summary After Changes
+### Change Effect on Overall School Summary & Thomas High School Relative Performance
 
-When replacing ninth grader's math and reading scores with Nans, Thomas high school went to bottom 8 and passing rates have significantly fallen by more than 30%
-However, if we exclude ninth graders and their scores, Thomas High School is remain at Top 2 and the passing rates only slightly fallen
+When replacing ninth grader's math and reading scores with Nans, Thomas high school (THS) went to bottom 8 and passing rates have significantly fallen to 65.07%
+However, if we exclude ninth graders and their scores, Thomas High School remains at Top 2 with an overall passing rates of 90.63%
 
-**School Summary Replacing THS ninth graders' scores with Nans**
+**Original School Summary**
+![](Resources/school_summary_original_2.png)
+**Updated School Summary 1 (Replacing THS ninth graders' scores with Nans)**
 ![](Resources/school_summary_Before_2.png)
 
-**School Summary Excluding THS ninth graders and their scores**
+**Updated School Summary 2 (Excluding THS ninth graders)**
 ![](Resources/school_summary_after.png)
 
 How does replacing the ninth-grade scores affect the following:
