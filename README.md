@@ -14,7 +14,7 @@ How is the district summary affected?
 As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- have slightly fallen by roughly 0.1%
 
 **Before**
-![Image 1](Resources/district_summary_before.png)
+![](Resources/district_summary_before.png)
 
 **After**
 
