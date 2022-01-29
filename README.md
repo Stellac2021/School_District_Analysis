@@ -37,22 +37,29 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_summary_after.png)
 
 
-### 3. Overall Change Effect on Excluding the THS ninth-grade scores
+### 3. Overall Change Effect on replacing THS ninth grade score
 
 **Math scores by grade**
+Except THS ninth grade math score changed to NaN, the rest of the data was not affected 
+
 ![](Resources/math_score_nan.png)
 
 **Reading scores by grade**
+Except THS ninth grade reading score changed to NaN, the rest of the data was not affected 
+
 ![](Resources/reading_score_nan.png)
 
 
 **Scores by school spending**
+
 ![](Resources/school_spending_nan.png)
 
 **Scores by school size**
+
 ![](Resources/school_size_nan.png)
 
 **Scores by school type**
+
 ![](Resources/school_type_nan.png)
 
 ## Summary 
