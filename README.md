@@ -41,26 +41,42 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Math scores by grade**
 
-Except THS ninth grade math score changed to NaN, the rest of the data was not affected 
+:point_right:Except THS ninth grade math score changed to NaN, the rest of the data was not affected 
 
 ![](Resources/math_score_nan.png)
 
 **Reading scores by grade**
 
-Except THS ninth grade reading score changed to NaN, the rest of the data was not affected 
+:point_right:Except THS ninth grade reading score changed to NaN, the rest of the data was not affected 
 
 ![](Resources/reading_score_nan.png)
 
 
 **Scores by school spending**
 
+:point_right: There is no huge impact
+
+*-Before*-
+
+![](Resources/school_spending_original.png)
+
+*-After*-
+
 ![](Resources/school_spending_nan.png)
 
 **Scores by school size**
+*-Before*-
 
+![](Resources/school_size_original.png)
+
+*-After*-
 ![](Resources/school_size_nan.png)
 
 **Scores by school type**
+*-Before*-
+
+![](Resources/school_type_original.png)
+*-After*-
 
 ![](Resources/school_type_nan.png)
 
