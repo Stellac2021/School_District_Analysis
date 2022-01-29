@@ -10,7 +10,7 @@ The purpose of this project is to:
 ## Results
 ### 1. Change Effect District Summary 
 
-As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- for District Summary have slightly fallen after replacing the original scores with NaNs for Thomas High School (THS) with **no huge changes on overall data**.
+:point_right: As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- for District Summary have slightly fallen after replacing the original scores with NaNs for Thomas High School (THS) with **no huge changes on overall data**.
 
 **District Summary Including THS Ninth graders' original scores**
 
@@ -21,7 +21,7 @@ As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing
 
 ### 2. Change Effect on Overall School Summary & Thomas High School Relative Performance
 
-When replacing ninth grader's math and reading scores with Nans, Thomas high school (THS) fell out of Top 2 and passing rates have significantly fallen by 25% from 90.94% to 65.07%.
+:point_right: When replacing ninth grader's math and reading scores with Nans, Thomas high school (THS) fell out of Top 2 and passing rates have significantly fallen by 25% from 90.94% to 65.07%.
 However, if we exclude ninth graders and their scores, Thomas High School remains at Top 2 with an overall passing rates changes 0.3% from 90.94% of 90.63%.
 
 **Original School Summary**
@@ -54,7 +54,7 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Scores by school spending**
 
-:point_right: There is no huge impact
+:point_right: There is no huge impact between Before and After
 
 *-Before*-
 
@@ -65,6 +65,8 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_spending_nan.png)
 
 **Scores by school size**
+
+:point_right: After the change, %overall passing for medium size schools has slightly decreased 
 
 *-Before*-
 
@@ -81,7 +83,7 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 *-After*-
 
-![](Resources/school_type_nan.png)
+![](Resources/school_type_after.png)
 
 ## Summary 
 '''
