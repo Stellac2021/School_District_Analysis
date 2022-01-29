@@ -21,7 +21,8 @@ As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing
 ![](Resources/district_summary_after.png)
 
 **Effect on School Summary After Changes**
-When replacing ninth grader's math and reading scores with Nans, Thomas high school is no longer in Top 5 and passing rates have significantly fallen by more than 30%
+
+When replacing ninth grader's math and reading scores with Nans, Thomas high school went to bottom 8 and passing rates have significantly fallen by more than 30%
 However, if we exclude ninth graders and their scores, Thomas High School is remain at Top 2 and the passing rates only slightly fallen
 
 **Replacing ninth graders' math and reading scores with Nans**
