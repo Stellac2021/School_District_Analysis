@@ -10,7 +10,7 @@ The purpose of this project is to:
 ## Results
 ### 1. Change Effect District Summary 
 
-:point_right: As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- for District Summary have slightly fallen after replacing the original scores with NaNs for Thomas High School (THS) with **no huge changes on overall data**.
+:point_right: As shown below, *-% Passing Math-*, *-% Passing Reading-* and *-%Overall Passing-* for District Summary have slightly fallen after replacing the original scores with NaNs for Thomas High School (THS) with **no huge changes on overall data**.
 
 **District Summary Including THS Ninth graders' original scores**
 
