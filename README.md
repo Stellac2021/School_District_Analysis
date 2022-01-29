@@ -41,20 +41,20 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Math scores by grade**
 
-:point_right:Except THS ninth grade math score changed to NaN, the rest of the data was not affected 
+:point_right:Except THS ninth grade math score changed to NaN, there is **no huge impact** on the rest of the data
 
 ![](Resources/math_score_nan.png)
 
 **Reading scores by grade**
 
-:point_right:Except THS ninth grade reading score changed to NaN, the rest of the data was not affected 
+:point_right:Except THS ninth grade reading score changed to NaN, there is **no huge impact** on the rest of the data
 
 ![](Resources/reading_score_nan.png)
 
 
 **Scores by school spending**
 
-:point_right: There is no huge impact after replacing THS ninth grader score
+:point_right: There is **no huge impact** after replacing THS ninth grader score
 
 *-Before*-
 
@@ -66,7 +66,7 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Scores by School Size**
 
-:point_right: After replacing THS ninth grader score, the *-% Overall passing-*  for medium size schools has slightly decreased by 0.06%
+:point_right: After replacing THS ninth grader score, the **%Overall passing**  for medium size schools has slightly **decreased by 0.06%**
 
 *-Before*-
 
@@ -77,7 +77,7 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_size_nan.png)
 
 **Scores by School Type**
-:point_right:
+:point_right:After replacing THS ninth grader score, the ***Overall passing**  for medium size schools has slightly **decreased by 0.04%**
 
 *-Before*-
 
