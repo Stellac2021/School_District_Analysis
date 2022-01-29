@@ -77,7 +77,8 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_size_nan.png)
 
 **Scores by School Type**
-:point_right:After replacing THS ninth grader score, the ***Overall passing**  for medium size schools has slightly **decreased by 0.04%**
+
+:point_right:After replacing THS ninth grader score, the **%Overall passing** for charter type has slightly **decreased by 0.04%**
 
 *-Before*-
 
@@ -88,13 +89,16 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_type_after.png)
 
 ## Summary 
-'''
-1. District Analysis
-2. Top School Ranking
-3. Scores by School Size
-4. Scores by School Type
+To sum up, below is the conclusion on how replacing THS ninth grade scores have impacted different measurements:
 
-'''
+```
+  - District Analysis : no huge impact 
+  - Top School Ranking : no huge impact
+  - Scores by School Spending : no huge impact
+  - Scores by School Size : the %Overall passingfor medium size schools has slightly decreased by 0.06%
+  - Scores by School Type : the %Overall passing for charter  type has slightly **decreased by 0.04%
+
+```
 
 ### Resources
   - Data Sources : schools_complete.csv & students_complete.csv
