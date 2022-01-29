@@ -54,8 +54,8 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Scores by school spending**
 
-:point_right: After replacing THS ninth grader score, the **%Overall passing**  for pending ranges between $630-644 has slightly **decreased by 0.06%**
-S
+:point_right: After replacing THS ninth grader score, the **%Overall passing**  for pending ranges between $630-644 has slightly **decreased by 0.07%**
+
 
 *-Before*-
 
@@ -90,12 +90,16 @@ S
 ![](Resources/school_type_after.png)
 
 ## Summary 
-To sum up, below is the conclusion on how replacing THS ninth grade scores have impacted different measurements:
+By using NaN in THS ninth grade score, we realized that THS fell out of Top 2 and passing rates have significantly fallen by 25% from 90.94% to 65.07%. But if we just exlude THS ninth grade score, THS remains at Top 2. Meaning that THS ninth grade scores does not affect the overall performance for Thomas High School (THS) 
+
+Replacing THS ninth grade scores with NaN was a good way to verify the data rather than putting 0.
+
+To sum up, below is the conclusion on how excluding THS ninth grade scores have impacted different measurements:
 
 ```
   1. District Analysis : no huge impact 
-  2. Top School Ranking : no huge impact
-  3. Scores by School Spending : no huge impact
+  2. Top School Ranking : no huge impact if excluding THS ninth grade scores. 
+  3. Scores by School Spending : the %Overall passing for pending ranges between $630-644 has slightly **decreased by 0.07%**
   4. Scores by School Size : the %Overall passing for medium size schools has slightly decreased by 0.06%
   5. Scores by School Type : the %Overall passing for charter  type has slightly decreased by 0.04%
 
