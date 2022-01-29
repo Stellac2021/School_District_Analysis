@@ -10,26 +10,26 @@ The purpose of this project is to:
 
 
 ## Results
-**Affects on District Summary After Changes**
+### Affects on District Summary After Changes
 
-As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- have slightly fallen by roughly 0.1% after replacing the original scores with NaNs for Thomas High School (THS)
+As shown below, *-% Passing Math*-, *-% Passing Reading*- and *-%Overall Passing*- for District Summary have slightly fallen by roughly 0.1% after replacing the original scores with NaNs for Thomas High School (THS)
 
-:framed_picture:**Including THS Ninth graders' original scores**
+**District Summary Including THS Ninth graders' original scores**
 
 ![](Resources/district_summary_before.png)
 
-:framed_picture:**Replacing THS Ninth graders' scores to Nans**
+**District Summary Replacing THS Ninth graders' scores to Nans**
 ![](Resources/district_summary_after.png)
 
-**Affects on School Summary After Changes**
+### Affects on School Summary After Changes
 
 When replacing ninth grader's math and reading scores with Nans, Thomas high school went to bottom 8 and passing rates have significantly fallen by more than 30%
 However, if we exclude ninth graders and their scores, Thomas High School is remain at Top 2 and the passing rates only slightly fallen
 
-:framed_picture:**Replacing THS ninth graders' scores with Nans**
+**School Summary Replacing THS ninth graders' scores with Nans**
 ![](Resources/school_summary_Before_2.png)
 
-:framed_picture:**Excluding THS ninth graders and their scores**
+**School Summary Excluding THS ninth graders and their scores**
 ![](Resources/school_summary_after.png)
 
 How does replacing the ninth-grade scores affect the following:
