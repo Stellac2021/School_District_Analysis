@@ -65,17 +65,20 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 ![](Resources/school_spending_nan.png)
 
 **Scores by school size**
+
 *-Before*-
 
 ![](Resources/school_size_original.png)
 
 *-After*-
+
 ![](Resources/school_size_nan.png)
 
 **Scores by school type**
 *-Before*-
 
 ![](Resources/school_type_original.png)
+
 *-After*-
 
 ![](Resources/school_type_nan.png)
