@@ -54,7 +54,8 @@ However, if we exclude ninth graders and their scores, Thomas High School remain
 
 **Scores by school spending**
 
-:point_right: There is **no huge impact** after replacing THS ninth grader score
+:point_right: After replacing THS ninth grader score, the **%Overall passing**  for pending ranges between $630-644 has slightly **decreased by 0.06%**
+S
 
 *-Before*-
 
