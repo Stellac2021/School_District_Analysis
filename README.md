@@ -32,6 +32,7 @@ However, if we exclude ninth graders and their scores, Thomas High School is rem
 ![](Resources/school_summary_after.png)
 
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
